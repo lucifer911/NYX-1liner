@@ -16,8 +16,8 @@ echo "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
 echo && echo && echo
 
   sudo apt-get update
-  sudo apt-get -y upgrade
-  sudo apt-get -y dist-upgrade
+  sudo apt-get upgrade -y
+  sudo apt-get dist-upgrade -y
   sudo apt-get install -y nano htop git
   sudo apt-get install -y software-properties-common
   sudo apt-get install -y build-essential libtool autotools-dev pkg-config libssl-dev
