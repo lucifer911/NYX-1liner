@@ -1,11 +1,11 @@
 #/bin/bash
 # Making NYX mn install
 
-cd ~
+cd root/
 echo "****************************************************************************"
 echo "* Ubuntu 16.04 is the recommended opearting system for this install.       *"
-echo "*                                                                          *"
-echo "* This script will install and configure your NYX masternodes.      *"
+echo "*        lets see                                                          *"
+echo "* This script will install and configure your NYX masternodes.             *"
 echo "****************************************************************************"
 echo && echo && echo
 echo "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
